@@ -19,8 +19,4 @@ class PartialPath<Node: PathNode<Node>>(val parent: PartialPath<Node>?, val asso
         }
         return currentPath.reversed()
     }
-
-    override fun toString(): String {
-        return "PartialPath $parent"
-    }
 }
