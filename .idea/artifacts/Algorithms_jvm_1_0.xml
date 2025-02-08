@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Algorithms-jvm-1.0">
+    <output-path>$PROJECT_DIR$/build/libs</output-path>
+    <root id="archive" name="Algorithms-jvm-1.0.jar">
+      <element id="module-output" name="Algorithms.jvmMain" />
+    </root>
+  </artifact>
+</component>
